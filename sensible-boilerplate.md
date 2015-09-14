@@ -20,7 +20,7 @@ No right or obligation under the Agreement will be waived unless the waiver is e
 
 ## Severance
 
-Any unenforceable or invalid term of the Agreement will only be severed to the extent of the unerforcability or invalidity without affecting any other term in the Agreement.
+Any unenforceable or invalid term of the Agreement will only be severed to the extent of the unenforceability or invalidity without affecting any other term in the Agreement.
 
 ## Binding on successors
 
