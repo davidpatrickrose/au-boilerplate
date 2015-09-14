@@ -51,7 +51,7 @@ The governing law of the Agreement will be Victoria, Australia, and the parties 
 
 ## Sensible boilerplate
 
-[insert sensible boilerplate]
+The parties agree to the terms and conditions in the version of text at https://github.com/lawpatch/au-boilerplate/blob/6427e383295cf3319eebe6df86dece3e2dc51783/sensible-boilerplate.md only (not to any amendments).
 
 ## Definitions
 
