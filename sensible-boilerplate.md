@@ -12,7 +12,7 @@ The Agreement may be executed or entered into electronically.
 
 ## Counterparts
 
-The documents constituting the Agreement may be executed in a multiple counterparts.  The counterparts will be read as one legal document.
+The documents constituting the Agreement may be executed in multiple counterparts.  The counterparts will be read as one legal document.
 
 ## Waiver
 
